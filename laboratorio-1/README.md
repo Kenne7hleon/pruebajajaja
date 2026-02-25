@@ -1,1 +1,1 @@
-![Captura C++](capturacpp.png)
+![Captura C++](capturajaja.png)
