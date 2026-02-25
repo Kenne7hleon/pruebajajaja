@@ -1,0 +1,1 @@
+![Captura C++](capturacpp.png)
